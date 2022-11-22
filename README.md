@@ -4,5 +4,6 @@ In this project, we will see how to use Keras and TensorFlow to build, train, an
 ## This model can be used to predict different vreeds of dogs which can be further used by different NGOs working on saving animals and for educational puropses also.
 
 
+
 # Conclusion:
 We started with downloading the dataset creating the model and finding out the predictions using the model. We can optimize different hyper parameters in order to tune this model for a higher accuracy. This model can be used to predict different breeds of dogs which can be further used by different NGO's working on saving animals and for educational purposes also.
